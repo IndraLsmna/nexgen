@@ -1,0 +1,41 @@
+{
+    "timestamp": 1745776266.776237,
+    "total_ads": 0,
+    "channel_stats": {},
+    "server_stats": {
+        "timestamp": 1743153677.197714,
+        "total_ads": 0,
+        "channel_stats": {},
+        "server_stats": {
+            "timestamp": 1741389648.514875,
+            "total_ads": 0,
+            "channel_stats": {},
+            "server_stats": {
+                "timestamp": 1741335936.07779,
+                "total_ads": 0,
+                "channel_stats": {},
+                "server_stats": {
+                    "timestamp": 1741320890.017853,
+                    "total_ads": 0,
+                    "channel_stats": {},
+                    "server_stats": {
+                        "timestamp": 1741302572.494167,
+                        "total_ads": 0,
+                        "channel_stats": {},
+                        "server_stats": {
+                            "timestamp": 1741075585.691139,
+                            "total_ads": 0,
+                            "channel_stats": {},
+                            "server_stats": {
+                                "timestamp": 1741073441.392136,
+                                "total_ads": 0,
+                                "channel_stats": {},
+                                "server_stats": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,1034 @@
+{
+    "1149406379505897614": {
+        "roles": {
+            "1149406379505897614": {
+                "name": "@everyone",
+                "color": 0,
+                "members": 36,
+                "position": 0,
+                "hoisted": false,
+                "mentionable": false
+            },
+            "1366099037362851892": {
+                "name": "Nexgen",
+                "color": 0,
+                "members": 1,
+                "position": 1,
+                "hoisted": false,
+                "mentionable": false
+            },
+            "1339228129025069190": {
+                "name": "Embed Generator",
+                "color": 3066993,
+                "members": 1,
+                "position": 1,
+                "hoisted": false,
+                "mentionable": false
+            },
+            "1332567928310202474": {
+                "name": "Invite Tracker",
+                "color": 3066993,
+                "members": 1,
+                "position": 2,
+                "hoisted": false,
+                "mentionable": false
+            },
+            "1331179134944284685": {
+                "name": "Ticket Tool",
+                "color": 3066993,
+                "members": 1,
+                "position": 3,
+                "hoisted": false,
+                "mentionable": false
+            },
+            "1330828441247027244": {
+                "name": "Member",
+                "color": 37860,
+                "members": 32,
+                "position": 4,
+                "hoisted": true,
+                "mentionable": false
+            },
+            "1330828439153803295": {
+                "name": "Partnership",
+                "color": 15277667,
+                "members": 0,
+                "position": 5,
+                "hoisted": true,
+                "mentionable": false
+            },
+            "1326644091232059413": {
+                "name": "Server Booster",
+                "color": 16023551,
+                "members": 0,
+                "position": 6,
+                "hoisted": false,
+                "mentionable": false
+            },
+            "1363883665603690538": {
+                "name": "Leveling Manager",
+                "color": 1113856,
+                "members": 3,
+                "position": 7,
+                "hoisted": false,
+                "mentionable": false
+            },
+            "1363883616463097917": {
+                "name": "Mythic+ manager",
+                "color": 16711731,
+                "members": 4,
+                "position": 8,
+                "hoisted": false,
+                "mentionable": false
+            },
+            "1330828423261585459": {
+                "name": "Manager",
+                "color": 65514,
+                "members": 5,
+                "position": 9,
+                "hoisted": true,
+                "mentionable": false
+            },
+            "1365778024280096878": {
+                "name": "Gold seller",
+                "color": 16750848,
+                "members": 1,
+                "position": 10,
+                "hoisted": false,
+                "mentionable": false
+            },
+            "1326847287753834566": {
+                "name": "Manager.",
+                "color": 65514,
+                "members": 3,
+                "position": 11,
+                "hoisted": false,
+                "mentionable": true
+            }
+        },
+        "members": {
+            "1219680658482270238": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2024-03-19T16:24:38.427000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "461289503466979334": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-02-20T20:09:40.937000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "410409008520757249": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-03-03T15:43:15.532000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "342749396682801162": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-04-07T16:45:05.917000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "263114717726244866": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-04-07T17:27:48.184000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "415764406547251201": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-03-05T18:39:01.683000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "459178735111897088": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-03-07T06:41:48.380000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "557628352828014614": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-01-21T08:30:37.957000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "188726676526596096": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-04-07T21:28:34.890000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "1366094023479263233": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-04-27T17:09:51.443000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "292535030172090368": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-04-08T11:01:54.322000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "964847977816543253": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2023-09-07T18:10:35.885000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "794176575364399134": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-03-04T13:11:21.777000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "1193885819749027860": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2024-03-19T15:32:44.960000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "231036450760556547": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-04-04T11:38:51.738000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "658784514507538435": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-04-21T05:54:44.993000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "90970681054863360": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-04-18T15:47:16.383000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "148541710488698880": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-04-07T16:49:02.659000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "365042369340637186": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-03-08T10:22:41.778000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "536508170135142401": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-04-11T08:52:45.304000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "410138706490425344": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-02-12T13:34:27.701000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "152457807826911233": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-04-21T21:11:09.566000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "886896738789654558": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2024-03-31T15:57:08.460000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "366619334463717376": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-04-26T12:19:28.605000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "1300476765768257556": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2024-10-28T15:19:26.540000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "720351927581278219": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-01-25T04:29:12.149000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "281996224570327040": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-04-15T11:52:00.988000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "791166442837114890": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2024-03-18T19:12:06.686000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "185200962598731776": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-04-17T02:30:37.243000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "169599792748429312": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-04-06T06:49:07.706000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "219040685263814656": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-04-25T14:55:40.516000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "903796983330902067": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-01-24T08:30:26.347000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "155405090667233281": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-04-04T21:32:41.243000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "964194011147554866": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-02-12T17:14:17.452000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "1114329327992058037": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-03-02T19:16:45.672000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "1276407207214452736": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-03-09T15:00:13.287000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            }
+        }
+    },
+    "1338910525328986133": {
+        "roles": {
+            "1338910525328986133": {
+                "name": "@everyone",
+                "color": 0,
+                "members": 10,
+                "position": 0,
+                "hoisted": false,
+                "mentionable": false
+            },
+            "1366094409141194786": {
+                "name": "Nexgen",
+                "color": 0,
+                "members": 1,
+                "position": 1,
+                "hoisted": false,
+                "mentionable": false
+            },
+            "1362819416802197717": {
+                "name": "Remove Crown",
+                "color": 0,
+                "members": 2,
+                "position": 1,
+                "hoisted": true,
+                "mentionable": false
+            },
+            "1344272040747597827": {
+                "name": "Ticket Tool",
+                "color": 0,
+                "members": 1,
+                "position": 2,
+                "hoisted": false,
+                "mentionable": false
+            },
+            "1342783046671142914": {
+                "name": "MEE6",
+                "color": 0,
+                "members": 1,
+                "position": 3,
+                "hoisted": false,
+                "mentionable": false
+            },
+            "1341977449889661004": {
+                "name": "Sapphire",
+                "color": 0,
+                "members": 1,
+                "position": 4,
+                "hoisted": false,
+                "mentionable": false
+            },
+            "1341972254673604732": {
+                "name": "Appy",
+                "color": 0,
+                "members": 1,
+                "position": 5,
+                "hoisted": false,
+                "mentionable": false
+            },
+            "1341722666750574642": {
+                "name": "Wowhead Bot",
+                "color": 0,
+                "members": 1,
+                "position": 6,
+                "hoisted": false,
+                "mentionable": false
+            },
+            "1341721642019065886": {
+                "name": "Jeeves",
+                "color": 0,
+                "members": 1,
+                "position": 7,
+                "hoisted": false,
+                "mentionable": false
+            },
+            "1339093417917026328": {
+                "name": "Embed Generator",
+                "color": 0,
+                "members": 1,
+                "position": 8,
+                "hoisted": false,
+                "mentionable": false
+            },
+            "1338911068675772529": {
+                "name": "new role",
+                "color": 0,
+                "members": 2,
+                "position": 10,
+                "hoisted": false,
+                "mentionable": false
+            }
+        },
+        "members": {
+            "159985870458322944": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-02-22T09:00:26.070000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "203510229621538817": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-02-19T10:42:47.510000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "410138706490425344": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-02-12T04:39:10.053000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "557628352828014614": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-02-26T11:37:09.957000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "626904737731706881": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-02-19T10:46:51.857000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "678344927997853742": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-02-20T03:39:16.840000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "853327905357561948": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-02-20T03:18:38.253000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "964194011147554866": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-02-11T16:35:09.151000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "964847977816543253": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-02-11T16:32:25.001000+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            },
+            "1366094023479263233": {
+                "messages": 0,
+                "voice_time": 0,
+                "reactions": 0,
+                "commands": 0,
+                "activity_hours": {},
+                "channel_activity": {},
+                "role_history": [],
+                "join_date": "2025-04-27T16:51:28.047502+00:00",
+                "last_active": "2025-04-28T00:57:05.011736",
+                "engagement_metrics": {
+                    "replies": 0,
+                    "mentions": 0,
+                    "threads": 0,
+                    "reactions_given": 0,
+                    "reactions_received": 0
+                }
+            }
+        }
+    }
+}
